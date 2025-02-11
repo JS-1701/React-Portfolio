@@ -1,0 +1,14 @@
+header {
+    background-image: url(../assets/header.jpg);
+    color: #733f7c;
+    text-align: left;
+    padding: 20px 0 0 40px;
+    height: 20vh;
+}
+
+header h1 {
+    font-family: playfair display, serif;
+    font-size: 4em;
+    font-weight: 500;
+    margin: 10px 0px 0px 40px;
+}

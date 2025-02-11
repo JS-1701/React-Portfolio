@@ -1,6 +1,9 @@
 import React from 'react';
 import '../styles/project.css';
 
+
+
+
 export default function Project(props) {
     return (
         <a href={props.url} target="_blank" rel="noopener noreferrer" className="project-link">
